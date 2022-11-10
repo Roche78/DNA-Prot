@@ -29,9 +29,24 @@ machine)
     - Employs NNs to predict protein-DNA, protein-RNA and protein-protein interactions
     - [Paper](https://doi.org/10.1016/j.jmb.2020.02.026)
     - [GitHub](https://github.com/Rostlab/ProNA2020.git)
-    
- - **Benchmarking Data**
-  - HybridNap (Brief Bioinform, 2017)
+
+  
+  - HybridNap (Brief Bioinform, 2017) **Benchmarking Data**
     - [Paper](https://doi.org/10.1093/bib/bbx168)
     - [Benchmark Data](http://biomine.cs.vcu.edu/servers/hybridNAP/)
-    
+
+
+- **Structure-based DNA-protein interaction**
+
+  - COACH-D (Nucleic Acids Research, 2018)
+    - Template-based protein-ligand binding prediction
+    - [Paper](https://doi.org/10.1093/nar/gky439)
+    - [Webserver](http://yanglab.nankai.edu.cn/COACH-D/)
+  - NucBind (Bioinformatics, 2019)
+    - Combines COACH-D with SVM-based SVMnuc to predict nucleic acid binding residues
+    - [Paper](https://doi.org/10.1093/bioinformatics/bty756)
+    - [Webserver](https://yanglab.nankai.edu.cn/NucBind/)
+  - DeepSite (Bioinformatics, 2017)
+    - Employs 3D CNNs for ligand-binding prediction
+    - [Paper](https://doi.org/10.1093/bioinformatics/btx350)
+    - [Weberver](https://playmolecule.com/deepsite/)
