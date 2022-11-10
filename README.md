@@ -46,7 +46,7 @@ machine)
     - Combines COACH-D with SVM-based SVMnuc to predict nucleic acid binding residues
     - [Paper](https://doi.org/10.1093/bioinformatics/bty756)
     - [Webserver](https://yanglab.nankai.edu.cn/NucBind/)
-  - DNApred (Proteins, 2013)
+  - DNAbind (Proteins, 2013)
     - A hybrid appraoch combining template-based and ML-based DNA-binding residue prediction
     - [Paper](https://doi-org.ezproxy.lib.vt.edu/10.1002/prot.24330)
     - [Webserver](http://mleg.cse.sc.edu/DNABind/)
