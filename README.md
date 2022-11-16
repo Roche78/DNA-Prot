@@ -4,6 +4,11 @@
 
 - **Sequence-based DNA-protein interaction**
 
+  - DeepDISOBind (Brief Bioinform, 2022)
+    - Multi-task deep NN for protien-,DNA-, and RNA-binding
+    - [Paper](https://doi.org/10.1093/bib/bbab521)
+    - [Webserver](https://www.csuligroup.com/DeepDISOBind/)
+
   - DNAPred (J ChemInf Model, 2019)
     - Employs ensumble of SVMs to predict protein-DNA bind sites 
     - [Paper](https://pubs.acs.org/doi/full/10.1021/acs.jcim.8b00749) 
